@@ -6,9 +6,9 @@ var fs = require('fs');
 var wordpress = require('wordpress');
 
 // var wp = wordpress.createClient({
-//     "url": 'http://yardsalecu.wordpress.com/',
-//     "username": 'rodch100',
-//     "password": 'Mo029240362@'
+//     "url": '---',
+//     "username": '---',
+//     "password": '---'
 // });
 
 
